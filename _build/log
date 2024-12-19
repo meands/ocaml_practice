@@ -1,0 +1,16 @@
+# dune build
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/meands/.cache/dune/db
+# Workspace root: /Users/meands/ocaml-practice/practice
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/meands/.opam/default/bin/ocamlc.opt -config > /var/folders/4z/r35gvvxs4617rns1m456kync0000gn/T/dune_edb1f9_output
